@@ -1,7 +1,7 @@
-console.log("Hello world");
+console.log("Hello world")
 
-const name = "Turner";
+const name = "Turner"
 
-function myName(name) {
-    console.log(`Hello ${name}`);
+function myName() {
+    console.log(`Hello ${name}`)
 }
